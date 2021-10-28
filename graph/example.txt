@@ -1,0 +1,10 @@
+X,a,b,c,d,e,f,g,h,i
+a,4,x,x,x,x,x,x,4,x
+b,11,19,x,x,x,2,x,x,x
+c,10,x,7,x,x,x,x,x,4
+d,5,x,x,0,x,x,x,x,x
+e,x,x,x,x,18,x,x,x,x
+f,x,x,x,x,x,0,x,x,x
+g,x,x,x,x,x,x,14,x,x
+h,x,15,18,11,x,x,x,0,5
+i,10,1,x,1,x,x,x,x,7
